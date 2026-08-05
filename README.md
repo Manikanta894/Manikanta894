@@ -1,8 +1,14 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,35:1F1712,65:2A1810,100:0B0B12&height=200&section=header&text=MANIKANTAR&fontSize=54&fontColor=EF5B37&animation=fadeIn&fontAlignY=42&desc=Field%20Notes%20%C2%B7%20Edition%2002%20%C2%B7%20Bengaluru%2C%20India&descAlignY=62&descColor=F5E6D8&descSize=16" width="100%"/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=manikanta894&color=EF5B37&style=flat-square&label=PROFILE+VIEWS)
+
+</div>
+
 <table width="100%">
 <tr>
 <td width="62%" valign="middle">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,100:0B0B12&height=2&width=100%"/>
 
 <sup>FIELD NOTES · EDITION 02 · BENGALURU · 2026</sup>
 
@@ -33,15 +39,13 @@
 
 <br/>
 
-## 01 — Who this is
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,100:1F1712&height=70&section=header&text=01%20%E2%80%94%20WHO%20THIS%20IS&fontSize=22&fontColor=EF5B37&fontAlignY=60&fontAlign=3" width="100%"/>
 
 I'm Manikanta. I run store floors and spreadsheets by day, and I write about the numbers behind people by night. Somewhere between a retail counter and an MBA classroom, I decided HR shouldn't run on gut feeling — it should run on the same rigor as a P&L.
 
 I'm not a software engineer with a GitHub full of side projects. My repos are dashboards, research write-ups, and the infrastructure behind a personal publication — a different kind of proof of work, shown honestly instead of padded with boilerplate.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A63D2,100:38BDAE&height=3&width=100%" width="100%"/>
-
-## 02 — Currently
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A63D2,100:38BDAE&height=70&section=header&text=02%20%E2%80%94%20CURRENTLY&fontSize=22&fontColor=fff&fontAlignY=60&fontAlign=3" width="100%"/>
 
 ```diff
 + Year 1 of 2  — MBA, Business Analytics (HR track), Nagarjuna Degree College
@@ -50,9 +54,7 @@ I'm not a software engineer with a GitHub full of side projects. My repos are da
 + Targeting    — People Analytics roles inside GCCs (Microsoft · Google · Workday · Goldman Sachs)
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDAE,100:F2C811&height=3&width=100%" width="100%"/>
-
-## 03 — Field work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDAE,100:F2C811&height=70&section=header&text=03%20%E2%80%94%20FIELD%20WORK&fontSize=22&fontColor=0B0B12&fontAlignY=60&fontAlign=3" width="100%"/>
 
 <table>
 <tr><td width="140"><b>Fizzy Goblet</b><br/><sub>Mar 2024 → Present</sub></td>
@@ -61,9 +63,7 @@ I'm not a software engineer with a GitHub full of side projects. My repos are da
 <td>Store In-Charge · Bengaluru — ran full store operations and a team, cut inventory discrepancies through systematic reconciliation, read consumer trends into shelf strategy.</td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2C811,100:EF5B37&height=3&width=100%" width="100%"/>
-
-## 04 — Research & published work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F2C811,100:EF5B37&height=70&section=header&text=04%20%E2%80%94%20RESEARCH%20%26%20PUBLISHED%20WORK&fontSize=20&fontColor=0B0B12&fontAlignY=60&fontAlign=3" width="100%"/>
 
 <table>
 <tr><td>🔬</td><td><b>ORCID researcher</b></td><td>Active published-researcher profile — <a href="https://orcid.org/0009-0005-2576-8731">orcid.org/0009-0005-2576-8731</a></td></tr>
@@ -72,9 +72,7 @@ I'm not a software engineer with a GitHub full of side projects. My repos are da
 <tr><td>📓</td><td><b>Build journal</b></td><td>Every version of the portfolio, documented as it's built — <a href="https://journal.manikantar.in">journal.manikantar.in</a></td></tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EF5B37,100:0B0B12&height=3&width=100%" width="100%"/>
-
-## 05 — Credentials, completed
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EF5B37,100:0B0B12&height=70&section=header&text=05%20%E2%80%94%20CREDENTIALS%2C%20COMPLETED&fontSize=20&fontColor=fff&fontAlignY=60&fontAlign=3" width="100%"/>
 
 <div align="center">
 
@@ -89,9 +87,7 @@ I'm not a software engineer with a GitHub full of side projects. My repos are da
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,100:38BDAE&height=3&width=100%" width="100%"/>
-
-## 06 — Stack, in the order I actually reach for it
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B12,100:38BDAE&height=70&section=header&text=06%20%E2%80%94%20STACK&fontSize=22&fontColor=fff&fontAlignY=60&fontAlign=3" width="100%"/>
 
 <div align="center">
 
@@ -103,13 +99,11 @@ I'm not a software engineer with a GitHub full of side projects. My repos are da
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDAE,100:8A63D2&height=3&width=100%" width="100%"/>
-
-## 07 — Live data
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDAE,100:8A63D2&height=70&section=header&text=07%20%E2%80%94%20LIVE%20DATA&fontSize=22&fontColor=fff&fontAlignY=60&fontAlign=3" width="100%"/>
 
 <div align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Manikanta894&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=EF5B37&icon_color=8A63D2&text_color=c9d1d9&border_radius=10"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikanta894&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=EF5B37&text_color=c9d1d9&langs_count=6&border_radius=10"/>
+<img height="165em" src="https://raw.githubusercontent.com/Manikanta894/Manikanta894/main/profile/stats.svg"/>
+<img height="165em" src="https://raw.githubusercontent.com/Manikanta894/Manikanta894/main/profile/top-langs.svg"/>
 </div>
 
 <div align="center">
@@ -120,7 +114,7 @@ I'm not a software engineer with a GitHub full of side projects. My repos are da
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Manikanta894&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Manikanta894)
+[![Trophy](https://github-profile-trophy-liard-delta.vercel.app/?username=Manikanta894&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4)](https://github.com/Manikanta894)
 
 </div>
 
@@ -136,9 +130,7 @@ I'm not a software engineer with a GitHub full of side projects. My repos are da
 <img src="https://raw.githubusercontent.com/Manikanta894/Manikanta894/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A63D2,100:EF5B37&height=3&width=100%" width="100%"/>
-
-## 08 — Manifesto
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A63D2,100:EF5B37&height=70&section=header&text=08%20%E2%80%94%20MANIFESTO&fontSize=22&fontColor=fff&fontAlignY=60&fontAlign=3" width="100%"/>
 
 ```
 Data doesn't speak for itself. I give it a voice leadership can act on.
@@ -147,9 +139,7 @@ A dashboard nobody reads is just decoration.
 Publish before you're asked to. Credentials are proof; publications are receipts.
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EF5B37,100:38BDAE&height=3&width=100%" width="100%"/>
-
-## 09 — What this README won't tell you
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:EF5B37,100:38BDAE&height=70&section=header&text=09%20%E2%80%94%20WHAT%20THIS%20README%20WILL%20NOT%20TELL%20YOU&fontSize=18&fontColor=fff&fontAlignY=60&fontAlign=3" width="100%"/>
 
 The rest — the actual case studies, the dashboard walkthroughs, the writing, the parts of the story that don't fit in a markdown file — live at **manikantar.in**. This page is the field notes. That's the edition.
 
