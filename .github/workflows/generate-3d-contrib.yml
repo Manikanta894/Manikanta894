@@ -8,22 +8,26 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v4
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: Manikanta894
-      - name: commit
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A
-          git commit -m "generate 3d contribution calendar" || echo "no changes"
-          git push
+          git add -A .
+          if git commit -m "generate 3d contribution calendar"; then
+            git push
+          else
+            echo "no changes to commit"
+          fi
